@@ -1,6 +1,12 @@
 # storage-and-database
 a cloud formation script that has an auto scaling group and connected to a database
 
+### ARCHITECTURE
+         
+   ![db sql](https://user-images.githubusercontent.com/94189602/212568439-5f1f99a5-9a7c-4c96-882c-e1b080064446.PNG)
+          
+
+
 ### Usage
 ### Make sure you have the following installed:
 
